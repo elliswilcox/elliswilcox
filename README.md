@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self-taught coder and enthusiastic hobbyist based in Brighton, England. With a strong passion for technology, I am actively seeking opportunities to launch my career in the tech industry.
+I am a self-taught coder and enthusiastic hobbyist based near Brighton, England. With a strong passion for technology, I am actively seeking opportunities to launch my career in the tech industry.
 
 - 🌱 I’m currently learning: `HTML`, `CSS`, `JS` and `React`
 - 👯 I’m looking to collaborate on: `Front-end Projects`
