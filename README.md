@@ -7,6 +7,6 @@ I am a self-taught coder and enthusiastic hobbyist based near Brighton, England.
 - 📫 How to reach me: `TBA`
 
 <img src="https://github-readme-stats.vercel.app/api?username=elliswilcox&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliswilcox&layout=compact&theme=gotham" alt="languages stats" width="45%" align="right"/>
 
 <!--**elliswilcox/elliswilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
